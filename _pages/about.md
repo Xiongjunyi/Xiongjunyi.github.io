@@ -8,3 +8,5 @@ redirect_from:
 ---
 
 I'm a first year postgraduate student from [Southern University of Science and Technology](https://www.sustech.edu.cn/). My research interest includes inversion problem, numerical algorithm and computer science.
+
+You can find my CV here: [Xiong Junyi's Curriculum Vitael](../assets/CV_xiongjunyi.pdf)
