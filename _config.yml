@@ -31,7 +31,7 @@ author:
   email            : "12332717@mail.sustech.edu.cn" 
 
   # Academic websites
-  arxiv            : "https://arxiv.org/user/Xiongjunyi"
+  arxiv            : # "https://arxiv.org/user/Xiongjunyi"
   googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
   orcid            : "https://orcid.org/0009-0001-5303-1914"
@@ -62,7 +62,7 @@ author:
   medium           : # URL
   pinterest        : # Username
   soundcloud       : # Username
-  steam            : "xiongdaxian0"
+  steam            : # "xiongdaxian0"
   telegram         : # URL
   tumblr           : # Username
   twitter          : # Username for X / Twitter
