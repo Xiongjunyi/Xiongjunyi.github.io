@@ -13,13 +13,6 @@ My interest in these areas was first aroused during my undergraduate studies at 
 
 You can find my CV here: [Curriculum Vitael](../assets/CV_mine.pdf)
 
----
-permalink: /
-title: "Contact me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-
+Contact me
+======
 [Email] / [Wechat] / [QQ]
