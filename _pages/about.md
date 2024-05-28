@@ -15,4 +15,4 @@ You can find my CV here: [Curriculum Vitael](../assets/CV_mine.pdf)
 
 Contact me
 ======
-[Email] / [Wechat] / [QQ]
+[Email](../assets/email.md) / [Wechat](wechat.md) / [QQ](qq.md)
