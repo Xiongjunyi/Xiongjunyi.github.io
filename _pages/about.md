@@ -12,3 +12,14 @@ I'm a first year postgraduate student from [Southern University of Science and T
 My interest in these areas was first aroused during my undergraduate studies at the Yunnan University where I studied geophysical inversion, and I chose to do a final year research topic on waveform inversion. In the graduate stage, I study the application of inverse problems in industrialization. So far, throughout my entire research career, the impact of inverse problems has been the most profound for me, and I am also very eager to continue studying this direction.
 
 You can find my CV here: [Curriculum Vitael](../assets/CV_mine.pdf)
+
+---
+permalink: /
+title: "Contact me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+[Email] / [Wechat] / [QQ]
