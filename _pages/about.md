@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-I'm a first year postgraduate student from Southern University of Science and Technology. My research interest includes inversion problem, numerical algorithm and computer science.
+I'm a first year postgraduate student from [Southern University of Science and Technology](https://www.sustech.edu.cn/). My research interest includes inversion problem, numerical algorithm and computer science.
